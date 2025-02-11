@@ -7,6 +7,11 @@
           "0x19285|Skyrim.esm", //Northwatch Keep
           "0x18C92|Skyrim.esm"  //Thalmor Embassy
         ],
+        ],
+        "!references" : [
+          //Smuggled Thalmor Embassy Chest
+          "0x4FDAF|Skyrim.esm",
+        ],
         "bypassUnsafeContainers": true
       },
       "changes":[
