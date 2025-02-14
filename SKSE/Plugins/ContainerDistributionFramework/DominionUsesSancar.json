@@ -9,7 +9,7 @@
         ],
         "!references" : [
           //Smuggled Thalmor Embassy Chest
-          "0x4FDAF|Skyrim.esm",
+          "0x39CF1|Skyrim.esm"
         ],
         "bypassUnsafeContainers": true
       },
